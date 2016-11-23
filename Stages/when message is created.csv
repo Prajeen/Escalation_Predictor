@@ -1,0 +1,29 @@
+Priority,APT,Calls from Customer,TSLR,Number of Info to SAP from last TSLR,Number of Processors,Customer call back request,Core Business affected?,Go live Affected?,Num of users affected,Work around available?
+High,0,1,0,0,0,No,,Yes,NA,No
+High,0,2,0,1,1,No,No,Yes,NA,No
+High,0,0,0,0,1,No,Yes,Yes,500,No
+High,0,0,0,0,0,No,,Yes,20,No
+High,0.91,0,0,0,0,No,,Yes,NA,No
+Medium,0,0,0,0,0,No,,Yes,3,No
+High,0.041,0,0,0,1,No,Yes,No,NA,No
+High,0,0,0,0,1,No,No,Yes,50,No
+High,0,0,0,0,1,No,No,Yes,NA,No
+High,0,0,0,1,1,No,Yes,Yes,500,No
+High,0,0,0,2,1,No,No,No,1000,No
+Low,0,0,0,1,1,No,No,Yes,NA,No
+High,0,0,0,1,1,No,No,Yes,NA,No
+Low,0,0,0,0,1,No,No,Yes,300,No
+Very high ,0,0,0,0,0,No,No,Yes,5,No
+Very high ,0.041,0,0,1,1,No,Yes,Yes,NA,No
+High,0,0,0,0,2,No,Yes,No,3000,No
+Medium,0,0,0,0,0,No,No,Yes,250,No
+High,0,0,0,0,0,No,Yes,No,15,Yes
+Very high ,0,0,0,0,1,No,Yes,No,NA,No
+Very high ,0,0,0,0,3,No,Yes,Yes,NA,No
+Medium,0,0,0,0,1,No,No,N/A,NA,No
+Medium,0,0,0,0,0,Yes,Yes,N/A,NA,No
+Medium,0,1,0,0,1,No,No,No,20,No
+Medium,0,0,0,0,1,No,Yes,N/A,20,N/A
+High,0,0,1,0,0,No,No,Yes,NA,No
+Medium,0,0,2,0,1,No,Yes,Yes,500,No
+High,0,0,3,0,0,No,No,Yes,NA,No

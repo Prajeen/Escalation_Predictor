@@ -1,0 +1,29 @@
+Priority,APT,APT_New,Calls from Customer,TSLR,Number of Info to SAP from last TSLR,Number of Processors,Customer call back request,Core Business affected?,Go live Affected?,Num of users affected,Work around available?
+High,0,0,0,0,0,0,No,,Yes,20,No
+High,0,0,0,0,0,1,No,No,Yes,50,No
+High,0,0,0,0,2,1,No,No,No,1000,No
+High,0,0,0,0,1,1,No,No,Yes,NA,No
+Very high ,0,0,0,0,0,0,No,No,Yes,5,No
+High,0,0,0,0,0,2,No,Yes,No,3000,No
+High,0,0,0,0,0,0,No,Yes,No,15,Yes
+Very high ,0,0,0,0,0,1,No,Yes,No,NA,No
+High,0.041,0.5,0,0,0,1,No,Yes,No,NA,No
+Very high ,0.041,0.5,0,0,1,1,No,Yes,Yes,NA,No
+Very high ,0.125,0.5,2,0,1,1,No,No,Yes,NA,No
+High,0.16,0.5,0,0,0,1,No,No,Yes,NA,No
+Very high ,0.2,0.5,0,0,0,3,No,Yes,Yes,NA,No
+High,0.45,0.5,0,0,1,1,No,Yes,Yes,500,No
+High,0.91,0.5,0,0,0,0,No,,Yes,NA,No
+Medium,3.041,4,0,0,0,1,No,No,Yes,250,No
+High,0,0,0,1,2,0,No,No,Yes,NA,No
+High,0.16,0.5,0,1,0,1,No,Yes,Yes,500,No
+High,0.96,0.5,0,1,2,3,No,,Yes,3,No
+High,8,8,0,2,0,1,No,No,N/A,NA,No
+High,4.87,4,0,3,1,0,No,No,Yes,NA,No
+High,8.96,8,2,4,0,1,No,,Yes,NA,No
+High,48.54,40,1,4,2,3,No,Yes,Yes,500,No
+Medium,13.3,15,0,6,0,0,Yes,Yes,N/A,NA,No
+Low,33.91,40,0,7,1,1,No,No,Yes,NA,No
+Low,15,15,0,15,0,1,No,No,Yes,300,No
+Medium,41.12,40,1,31,1,1,No,No,No,20,No
+Medium,18,15,0,42,1,1,No,Yes,N/A,20,N/A
